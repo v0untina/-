@@ -270,3 +270,5 @@ if __name__ =='__main__':
     ex = game5()
     ex.show()
     sys.exit(app.exec())
+
+ыпцынргшцпгшцпрцгшщпцрпцугшщпцрпцрпгц
